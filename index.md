@@ -1,0 +1,68 @@
+Privacy Policy for Namaz Vakti
+Effective Date: August 10, 2025
+
+This Privacy Policy describes how we collects, uses, and shares information in connection with your use of our mobile application, the Service
+
+Please read this Privacy Policy carefully. By using our Service, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy. If you do not agree, please do not use the Service.
+
+1. Information We Collect
+We collect information to provide and improve our Service. The types of information we collect depend on how you use our Service.
+
+a) Information You Provide to Us
+
+Account Information: If you choose to create an account or sign in using your Google account, we will collect information from Google, such as your name, email address, and profile picture. We store this information to identify you in our system and to sync your data across devices.
+
+b) Information We Collect Automatically
+
+Location Data: To provide accurate prayer times and Qibla direction, we need to know your location. We collect your precise location data (e.g., from your device's GPS) when the app is in use. You can disable location services through your device settings, but be aware that the core features of the app (accurate prayer times) will not function correctly without it.
+
+Usage Data: We may collect information about how you interact with our Service, such as the features you use, the time and duration of your activities, and other performance data.
+
+Device Information: We collect information about your mobile device, such as the operating system version, device model, and unique device identifiers (e.g., Android Advertising ID).
+
+2. How We Use Your Information
+We use the information we collect for the following purposes:
+
+To Provide and Maintain the Service: To calculate and display accurate prayer times and the Qibla direction based on your location.
+
+To Personalize Your Experience: To save your preferences and settings if you are logged in.
+
+To Manage Your Account: To allow you to sign in, manage your subscription, and sync your data.
+
+For Analytics and Improvement: To understand how our users interact with the app, to diagnose technical problems, and to improve the overall user experience.
+
+To Display Advertisements: To show advertisements within the app, which may be personalized based on your non-personally identifiable information (like your general location or device type).
+
+To Manage Subscriptions: To process and manage your in-app subscription status through the Google Play Store.
+
+To Communicate With You: To respond to your inquiries and provide customer support.
+
+3. Sharing and Disclosure of Information
+We do not sell your personal information. However, we may share your information with third-party service providers who help us operate our Service. These include:
+
+Google: We use Google Sign-In for authentication and Google Play Billing for managing subscriptions. Your interaction with these services is governed by Google's Privacy Policy.
+
+Advertising Partners: We work with third-party advertising partners (such as Google AdMob) to display ads in our app. These partners may collect data using cookies and other identifiers (like the Android Advertising ID) to serve ads that may be relevant to your interests. You can opt out of personalized advertising through your device's settings.
+
+Location Service Providers: We use your device's built-in location services to determine your geographical position.
+
+Legal Compliance: We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+
+4. Data Storage and Security
+We take reasonable measures to protect your information from unauthorized access, use, or disclosure. The information we collect, such as your location and account details, is stored on secure servers. However, no method of transmission over the internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+5. Data Retention
+We will retain your personal information for as long as your account is active or as needed to provide you with the Service. We may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+6. In-App Purchases and Subscriptions
+Our app offers optional subscriptions. All payments are processed securely through the Google Play Store. We do not collect, store, or have access to your credit card information or other payment details.
+
+7. Children's Privacy
+Our Service is not directed to individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
+
+8. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top. You are advised to review this Privacy Policy periodically for any changes.
+
+9. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+Email: erkanyagmur2828@gmail.com
